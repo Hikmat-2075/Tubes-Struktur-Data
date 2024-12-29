@@ -1,0 +1,220 @@
+# depslib dependency file v1.0
+1734620616 source:d:\strukdat\tubes data kejuaraan dan perlombaan\global.cpp
+	"Global.h"
+
+1734331851 source:d:\strukdat\tubes data kejuaraan dan perlombaan\main.cpp
+	"Global.h"
+
+1734331178 source:d:\strukdat\tubes data kejuaraan dan perlombaan\mll_child.cpp
+	"MLL_Child.h"
+
+1734620516 d:\strukdat\tubes data kejuaraan dan perlombaan\mll_child.h
+	<iostream>
+
+1734331904 source:d:\strukdat\tubes data kejuaraan dan perlombaan\mll_relasi.cpp
+	"MLL_Relasi.h"
+
+1734331851 d:\strukdat\tubes data kejuaraan dan perlombaan\mll_relasi.h
+	<iostream>
+	"MLL_Child.h"
+	"MLL_Parent.h"
+
+1734620407 d:\strukdat\tubes data kejuaraan dan perlombaan\mll_parent.h
+	<iostream>
+
+1734331415 source:d:\strukdat\tubes data kejuaraan dan perlombaan\mll_parent.cpp
+	"MLL_Parent.h"
+
+1734620002 source:d:\strukdat\tubes data kejuaraan dan perlombaan\menu.cpp
+	"menu.h"
+
+1734619906 d:\strukdat\tubes data kejuaraan dan perlombaan\menu.h
+	<iostream>
+	"MLL_Child.h"
+	"MLL_Parent.h"
+	"MLL_Relasi.h"
+	"menu.h"
+
+1734620139 d:\strukdat\tubes data kejuaraan dan perlombaan\global.h
+	<iostream>
+	"MLL_Child.h"
+	"MLL_Parent.h"
+	"MLL_Relasi.h"
+	"menu.h"
+
+1734854168 source:c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\global.cpp
+	"Global.h"
+
+1734798134 c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\global.h
+	<iostream>
+	"MLL_Child.h"
+	"MLL_Parent.h"
+	"MLL_Relasi.h"
+	"menu.h"
+
+1734798498 c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\mll_child.h
+	<iostream>
+
+1734847571 c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\mll_parent.h
+	<iostream>
+
+1734798878 c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\mll_relasi.h
+	<iostream>
+	"MLL_Child.h"
+	"MLL_Parent.h"
+
+1734838470 c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\menu.h
+	<iostream>
+	"MLL_Child.h"
+	"MLL_Parent.h"
+	"MLL_Relasi.h"
+	"menu.h"
+
+1734704399 source:c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\main.cpp
+	<iostream>
+	"Global.h"
+
+1734854256 source:c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\menu.cpp
+	"menu.h"
+
+1734853986 source:c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\mll_child.cpp
+	"MLL_Child.h"
+
+1734853864 source:c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\mll_parent.cpp
+	"MLL_Parent.h"
+
+1734854089 source:c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\mll_relasi.cpp
+	"MLL_Relasi.h"
+
+1734922118 source:d:\strukdat\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\global.cpp
+	"Global.h"
+
+1734862246 d:\strukdat\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\global.h
+	<iostream>
+	"MLL_Child.h"
+	"MLL_Parent.h"
+	"MLL_Relasi.h"
+	"menu.h"
+
+1734862246 d:\strukdat\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\mll_child.h
+	<iostream>
+
+1734862246 d:\strukdat\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\mll_parent.h
+	<iostream>
+
+1734862246 d:\strukdat\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\mll_relasi.h
+	<iostream>
+	"MLL_Child.h"
+	"MLL_Parent.h"
+
+1734862246 d:\strukdat\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\menu.h
+	<iostream>
+	"MLL_Child.h"
+	"MLL_Parent.h"
+	"MLL_Relasi.h"
+	"menu.h"
+
+1734862246 source:d:\strukdat\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\main.cpp
+	<iostream>
+	"Global.h"
+
+1734862246 source:d:\strukdat\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\menu.cpp
+	"menu.h"
+
+1734862246 source:d:\strukdat\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\mll_child.cpp
+	"MLL_Child.h"
+
+1734923558 source:d:\strukdat\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\mll_parent.cpp
+	"MLL_Parent.h"
+
+1734919583 source:d:\strukdat\tubes data kejuaraan dan perlombaan\tubes data kejuaraan dan perlombaan\mll_relasi.cpp
+	"MLL_Relasi.h"
+
+1734927008 source:c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan fix\tubes data kejuaraan dan perlombaan\global.cpp
+	"Global.h"
+
+1734927008 c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan fix\tubes data kejuaraan dan perlombaan\global.h
+	<iostream>
+	"MLL_Child.h"
+	"MLL_Parent.h"
+	"MLL_Relasi.h"
+	"menu.h"
+
+1734925265 c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan fix\tubes data kejuaraan dan perlombaan\mll_child.h
+	<iostream>
+
+1734925265 c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan fix\tubes data kejuaraan dan perlombaan\mll_parent.h
+	<iostream>
+
+1734925266 c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan fix\tubes data kejuaraan dan perlombaan\mll_relasi.h
+	<iostream>
+	"MLL_Child.h"
+	"MLL_Parent.h"
+
+1734925265 c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan fix\tubes data kejuaraan dan perlombaan\menu.h
+	<iostream>
+	"MLL_Child.h"
+	"MLL_Parent.h"
+	"MLL_Relasi.h"
+	"menu.h"
+
+1734925265 source:c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan fix\tubes data kejuaraan dan perlombaan\main.cpp
+	<iostream>
+	"Global.h"
+
+1734927039 source:c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan fix\tubes data kejuaraan dan perlombaan\menu.cpp
+	"menu.h"
+
+1734925265 source:c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan fix\tubes data kejuaraan dan perlombaan\mll_child.cpp
+	"MLL_Child.h"
+
+1734925265 source:c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan fix\tubes data kejuaraan dan perlombaan\mll_parent.cpp
+	"MLL_Parent.h"
+
+1734925266 source:c:\users\hikma\onedrive\documents\semester 3\tubes data kejuaraan dan perlombaan fix\tubes data kejuaraan dan perlombaan\mll_relasi.cpp
+	"MLL_Relasi.h"
+
+1734927008 source:c:\users\hikma\onedrive\documents\semester 3\19\tubes data kejuaraan dan perlombaan\global.cpp
+	"Global.h"
+
+1734927008 c:\users\hikma\onedrive\documents\semester 3\19\tubes data kejuaraan dan perlombaan\global.h
+	<iostream>
+	"MLL_Child.h"
+	"MLL_Parent.h"
+	"MLL_Relasi.h"
+	"menu.h"
+
+1734925265 c:\users\hikma\onedrive\documents\semester 3\19\tubes data kejuaraan dan perlombaan\mll_child.h
+	<iostream>
+
+1734942889 c:\users\hikma\onedrive\documents\semester 3\19\tubes data kejuaraan dan perlombaan\mll_parent.h
+	<iostream>
+
+1734925266 c:\users\hikma\onedrive\documents\semester 3\19\tubes data kejuaraan dan perlombaan\mll_relasi.h
+	<iostream>
+	"MLL_Child.h"
+	"MLL_Parent.h"
+
+1734925265 c:\users\hikma\onedrive\documents\semester 3\19\tubes data kejuaraan dan perlombaan\menu.h
+	<iostream>
+	"MLL_Child.h"
+	"MLL_Parent.h"
+	"MLL_Relasi.h"
+	"menu.h"
+
+1734925265 source:c:\users\hikma\onedrive\documents\semester 3\19\tubes data kejuaraan dan perlombaan\main.cpp
+	<iostream>
+	"Global.h"
+
+1734927039 source:c:\users\hikma\onedrive\documents\semester 3\19\tubes data kejuaraan dan perlombaan\menu.cpp
+	"menu.h"
+
+1734925265 source:c:\users\hikma\onedrive\documents\semester 3\19\tubes data kejuaraan dan perlombaan\mll_child.cpp
+	"MLL_Child.h"
+
+1734925265 source:c:\users\hikma\onedrive\documents\semester 3\19\tubes data kejuaraan dan perlombaan\mll_parent.cpp
+	"MLL_Parent.h"
+
+1734925266 source:c:\users\hikma\onedrive\documents\semester 3\19\tubes data kejuaraan dan perlombaan\mll_relasi.cpp
+	"MLL_Relasi.h"
+
